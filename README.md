@@ -1,1 +1,1 @@
-video demo: https://i.imgur.com/pVsZhkp.mp4
+![demo](https://github.com/madison-han/visual-novel/blob/main/demo.gif)
